@@ -6,3 +6,8 @@ This is a collection of inputs and correctly formatted outputs for testing Proje
 Please do not turn in any tests here that do not belong to you. This is just for a more rigorous test bench for your code. 
 
 Feel free to add tests to this, or update tests if the formatting is wrong (completely possible)
+
+Disclaimer
+================
+
+If you put any code in this I will immediately remove the code and block you from viewing this repo. 
