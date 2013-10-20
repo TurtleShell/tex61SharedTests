@@ -1,0 +1,6 @@
+   Hope your projects are going well! Be sure to include a bunch of unit
+tests[1]. This is to make sure you have unlimited textHeight[2] on your
+endnotes.
+[1] Hilfinger mentioned we'll be graded on testing this time.
+[2] Meaning you can't have form feed characters before any of your
+    endnotes.
