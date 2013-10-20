@@ -1,0 +1,5 @@
+\textheight{1}\nojustify
+Hope your projects are going well! Be sure to include a bunch of
+unit tests\endnote{Hilfinger mentioned we'll be graded on testing
+this time.}. This is to make sure you have unlimited textHeight\endnote{Meaning
+you can't have form feed characters before any of your endnotes.} on your endnotes.
